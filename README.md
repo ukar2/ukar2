@@ -21,5 +21,5 @@ Als Freelancer helfe ich Teams dabei, Systeme **fit** für heute zu machen.
 *   **Infrastructure as Code:** Cloud-Setups reproduzierbar und sauber mit AWS CDK hochziehen.
 
 ### 💻 Aktueller Fokus:
-*   **Eigene Produktentwicklung:** Ich baue ein cloudbasiertes **Asset Inventory Management System** für Kleinunternehmer (Angular Frontend + Serverless Backend via AWS Lambda, API Gateway & DynamoDB). (Angular Frontend + Serverless Backend via AWS Lambda, API Gateway & DynamoDB).
+*   **Eigene Produktentwicklung:** Ich baue ein cloudbasiertes **Asset Inventory Management System** für Kleinunternehmer (Angular Frontend + Serverless Backend via AWS Lambda, API Gateway & DynamoDB).
 *  Schau gerne mal bei **@Digitalisierung** rein — da bekommst du mehr Kontext und siehst direkt, wovon ich spreche.
